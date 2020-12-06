@@ -8,7 +8,3 @@ venue: 'International Journal of Environmental Research and Public Health'
 paperurl: 'https://www.mdpi.com/1660-4601/17/22/8701'
 citation: 'Shi W, Liu D, Yang J, Zhang J, Wen S, Su J. (2020). Social Bots’ Sentiment Engagement in Health Emergencies: A Topic-Based Analysis of the COVID-19 Pandemic Discussions on Twitter. International Journal of Environmental Research and Public Health. 17(22):8701.'
 ---
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
