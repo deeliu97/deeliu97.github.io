@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Connect the world"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
