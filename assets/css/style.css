@@ -1,0 +1,11 @@
+
+@font-face {
+    font-family: 'Candara';
+    src:url("/assets/fonts/Candara.ttf");
+    font-weight: normal;
+    font-style: normal;
+	
+body {
+    font-family: "Candara";  
+    font-size: 20px;  
+}
