@@ -2,9 +2,9 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Diyi Liu # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Diyi
-middle_name:
+middle_name: 
 last_name: Liu
 email: diyi.liu@oii.ox.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-
+  TEST
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
