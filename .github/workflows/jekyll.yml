@@ -3,10 +3,10 @@ name: Build and Deploy Jekyll Site
 on:
   push:
     branches:
-      - main  # Adjust this to your default branch
+      - master  # Adjust this to your default branch
   pull_request:
     branches:
-      - main  # Adjust this to your default branch
+      - master  # Adjust this to your default branch
 
 jobs:
   build:
@@ -14,12 +14,12 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.7  # Specify the Ruby version you need
+        ruby-version: 2.6.10p210  # Specify the Ruby version you need
 
     - name: Install dependencies
       run: |
