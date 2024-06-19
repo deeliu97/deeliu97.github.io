@@ -19,6 +19,13 @@ jobs:
         ref: master  # Specify the branch to checkout
         token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Set output variable
+        run: echo "my_output=value" >> $GITHUB_ENV
+
+      - name: Use output variable
+        run: |
+          echo "The output value is $my_output"
+
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
