@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Associate Fellow of the High Education Academy (AFHEA). Recognition reference PR303626
+description: Associate Fellow of the High Education Academy (AFHEA).
 nav: true
 nav_order: 3
 ---
