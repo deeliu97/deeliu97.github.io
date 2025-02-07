@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded a Tech Policy Fellowship by the Tech Global Institute starting from January 2025!
+Awarded a [Tech Policy Fellowship](https://techglobalinstitute.com/announcements/announcing-tgis-tech-policy-fellows-2025/) by the Tech Global Institute starting from January 2025!
