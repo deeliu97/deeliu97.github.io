@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Oxford Internet Institute, University of Oxford.
-Department of Communication, University of Copenhagen.
+subtitle: 
 
 profile:
   align: right
