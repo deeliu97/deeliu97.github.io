@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD candidate in Information, Communication, and the Social Sciences at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/diyi-liu/), University of Oxford. From May 2025, I started as a postdoctoral researcher at the Department of Communication, University of Copenhagen.
+I am a PhD candidate in Information, Communication, and the Social Sciences at the [Oxford Internet Institute](https://www.oii.ox.ac.uk/people/profiles/diyi-liu/), University of Oxford since October 2021. In May 2025, I started as a postdoctoral researcher at the Department of Communication, University of Copenhagen.
 
 My doctoral research examines algorithmic content moderation and the legitimacy of platformized governance over online speech in South and Southeast Asian contexts. It seeks to understand how on-the-ground user insights might inform policymaking around digital platforms and borderline content moderation. During my postdoc, I will be working on the *Power over Platforms* project where we look into the non-traditional actors influencing the decision-making of consumer-facing content platforms.
 
