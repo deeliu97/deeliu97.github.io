@@ -45,6 +45,17 @@ nav_order: 3
 </head>
 <body>
     <table class="teaching-table">
+    <tr>
+        <td>Spring 2025</td>
+        <td>
+            <div class="course-title">Politics and Ethics in the Digital Age</div>
+            <div class="institution">Undergraduate Tutorial, University of Oxford</div>
+            <div class="description">Course for visiting students from the Department of Government at Harvard University.
+            <br>
+            <a href="../assets/pdf/Politics_and_Ethics_in_the_Digital_Age_TT25.pdf">Course Syllabus</a>
+            </div>
+            </td>
+            </tr>
         <tr>
             <td>October 2023</td>
             <td>
