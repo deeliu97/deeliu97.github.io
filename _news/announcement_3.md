@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started as a postdoctoral researcher at the Department of Communication, University of Copenhagen in May 2025.
+Started as a postdoctoral researcher at the Department of Communication, University of Copenhagen in May 2025.
