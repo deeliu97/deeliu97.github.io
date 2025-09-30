@@ -6,6 +6,10 @@ WOAH2024:  # American Educational Research Association
   color: "#C2B280"  # Same green for conferences
 WebSci2024:
   color: "#C2B280"
+ACL2025:  # Association for Computational Linguistics
+  color: "#C2B280"
+TGI:
+  color: "#B7C9E2"
 
 
 # Commentaries
