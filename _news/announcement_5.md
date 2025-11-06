@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Defended my doctoral thesis at the Oxford Internet Institute!
+🎓 Defended my doctoral thesis at the Oxford Internet Institute!
