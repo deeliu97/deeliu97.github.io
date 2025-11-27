@@ -2,6 +2,23 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// Apply global fonts
+html {
+  font-family: var(--global-font-family);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Headings use the heading font
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--global-heading-font);
+}
+
+// Monospace for code elements
+code, pre, kbd, samp, tt {
+  font-family: var(--global-mono-font);
+}
+
 // Typography
 
 p,

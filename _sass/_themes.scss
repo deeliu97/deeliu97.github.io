@@ -29,6 +29,11 @@
   --global-newsletter-bg-color: #{$white-color};
   --global-newsletter-text-color: #{$black-color};
 
+  /* Font families (set via SCSS variables in _variables.scss) */
+  --global-font-family: #{$font-family-serif};
+  --global-heading-font: #{$font-family-serif};
+  --global-mono-font: #{$font-family-mono};
+
   --global-tip-block: #42b983;
   --global-tip-block-bg: #e2f5ec;
   --global-tip-block-text: #215d42;
