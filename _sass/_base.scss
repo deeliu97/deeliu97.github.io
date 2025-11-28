@@ -9,9 +9,22 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Make sure body uses the selected font (override scripts/styles loaded later) */
+body {
+  font-family: var(--global-font-family) !important;
+  font-weight: 400;
+}
+
 // Headings use the heading font
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--global-heading-font);
+  font-weight: 700;
+}
+
+/* Title/post headings and title links use the Alegreya heading font */
+.title, .post-title, .title a, .post-title a {
+  font-family: var(--global-heading-font);
+  font-weight: 700;
 }
 
 // Monospace for code elements
