@@ -8,9 +8,7 @@ profile:
   align: right
   image: profile_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Karen Blixens Plads 8</p>
-    <p>DK 2300 Copenhagen S</p>
+  more_info: false
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
