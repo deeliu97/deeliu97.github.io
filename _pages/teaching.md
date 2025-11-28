@@ -80,7 +80,7 @@ nav_order: 3
             <td>Fall 2022</td>
             <td>
                 <div class="course-title">JRLC 5080 International Mass Communication</div>
-                <div class="institution">Tutor, University of Georgia</div>
+                <div class="institution">Tutor, University of Oxford</div>
                 <div class="description">
                     The course is for visiting students from the University of Georgia in Oxford to critically examine global communication studies. I independently developed course syllabus, led weekly tutorial sessions, designed & marked assignments, mentored and answered questions.
                     <br>
