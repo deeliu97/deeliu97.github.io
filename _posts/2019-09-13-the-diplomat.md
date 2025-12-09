@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bridging the Gaps in the Asia-Pacific Information Superhighway
+title: The Diplomat | Bridging the Gaps in the Asia-Pacific Information Superhighway
 date: 2019-09-13 10:14:00-0400
 description: How can we foster a more connected and inclusive Asia-Pacific?
 tags: internet asia-pacific

@@ -1,0 +1,20 @@
+---
+# Media coverage entries for the site. Add more items as needed.
+# Fields:
+# - date: YYYY-MM-DD
+# - venue: publication or show
+# - title: headline/title
+# - url: link to original coverage
+# - note: optional short note
+
+- date: "2025-10-22"
+  venue: "Al Jazeera Journalism Review"
+  title: "Lost in Translation: The Global South and the Flaws of Content Moderation"
+  url: "https://institute.aljazeera.net/en/ajr/article/3419"
+  note: "I spoke to Al Jazeera Journalism Review about the organizational aspects of localized content moderation. The piece also covered our preprint "Language Disparities in Moderation Workforce Allocation by Social Media Platforms""
+
+- date: "2023-02-14"
+  venue: "The Daily Beast"
+  title: "Inside the Horrid Subreddit Giving Tech Support for Cyberstalkers"
+  url: "https://www.thedailybeast.com/inside-the-subreddit-giving-tech-support-for-cyberstalkers/"
+  note: "Reddit and content moderation."

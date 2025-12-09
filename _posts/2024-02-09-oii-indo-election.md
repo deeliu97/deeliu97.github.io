@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zooming in on the Digital Aspects of the Indonesian Elections 2024
+title: OII | Zooming in on the Digital Aspects of the Indonesian Elections 2024
 date: 2024-02-09 10:14:00-0400
 description: On 14th February 2024, Indonesia will hold its fifth direct presidential election since transitioning to democracy in 1998.
 tags: election indonesia
