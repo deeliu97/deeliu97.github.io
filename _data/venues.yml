@@ -12,6 +12,7 @@ TGI:
   color: "#B7C9E2"
 OSF:
   color: "#FFE5B4"
-
+CHI2026:  # Conference on Human Factors in Computing Systems
+  color: "#C2B280"  # Same green for conferences
 
 # Commentaries
