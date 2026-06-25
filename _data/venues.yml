@@ -14,5 +14,6 @@ OSF:
   color: "#FFE5B4"
 CHI2026:  # Conference on Human Factors in Computing Systems
   color: "#C2B280"  # Same green for conferences
-
+FACCT2026:  # ACM Conference on Fairness, Accountability, and Transparency
+  color: "#C2B280"  # Same green for conferences
 # Commentaries
