@@ -20,5 +20,12 @@ layout: default
       {% endif %}
     </header>
 
-    <object data="../assets/pdf/academic_cv_Dec2024_updated.pdf" width="750" height="1000" type='application/pdf'></object>
+    {% if page.cv_pdf %}
+      <object
+        data="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"
+        width="750"
+        height="1000"
+        type="application/pdf"
+      ></object>
+    {% endif %}
 </div>
