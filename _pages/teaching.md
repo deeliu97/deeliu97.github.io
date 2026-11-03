@@ -50,17 +50,17 @@ nav_order: 4
         <td>
             <div class="course-title">Introduction to Communication Theory</div>
             <div class="institution">Master's Lecture, University of Copenhagen</div>
-            <div class="description">Course for MA in Cognition and Communication.
+            <div class="description">Course for MA in Cognition and Communication.</div>
             </td>
-            </tr>
+        </tr>
         <tr>
         <td>Fall 2026</td>
         <td>
             <div class="course-title">Empirical Research Methods 2 (Philosophy of Science and Statistics)</div>
             <div class="institution">Undergraduate Lecture, University of Copenhagen</div>
-            <div class="description">Course for BA in Communication and IT.
+            <div class="description">Course for BA in Communication and IT.</div>
             </td>
-            </tr>
+        </tr>
         <tr>
         <td>Spring 2025</td>
         <td>
